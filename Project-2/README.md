@@ -68,7 +68,7 @@ Initializes the environment by importing standard analytical stack libraries: `p
 * **Temporal & Spatial Variations:** Generated bar visualizations tracking average monthly rainfall and regional rainfall volumes across different geographical locations.
 
 ### 5. Advanced Evaluation & Model Benchmarking
-Data was split into distinct training and test subsets, scaled using `MinMaxScaler`, and processed through diverse classifiers including Logistic Regression, Naive Bayes, Decision Trees, Random Forest, AdaBoost, Gradient Boosting, XGBoost, LightGBM, and CatBoost.
+Data was split into distinct training and test subsets, and processed through diverse classifiers including Logistic Regression, Naive Bayes, Decision Trees, Random Forest, AdaBoost, Gradient Boosting, XGBoost, LightGBM, and CatBoost.
 
 The metrics calculated for every single model include:
 * **Accuracy & Balanced Accuracy** (for class-imbalanced evaluation)
@@ -87,9 +87,3 @@ The initial exploratory phase confirmed distinct thermal and barometric shifts d
 The benchmarking metrics demonstrate exceptional model convergence. The training and test evaluation metrics align closely across all classification parameters (Accuracy, Precision, Recall, and F1), indicating an optimized bias-variance balance. The system exhibits high generalization power, meaning it is thoroughly robust against overfitting and prepared to make predictions on real-world, out-of-sample atmospheric inputs.
 
 ---
-
-## 🚀 How to Run the Project
-
-1. Clone this repository to your local environment:
-   ```bash
-   git clone [https://github.com/your-username/australia-weather-prediction.git](https://github.com/your-username/australia-weather-prediction.git)
