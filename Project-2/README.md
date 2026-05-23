@@ -87,3 +87,12 @@ The initial exploratory phase confirmed distinct thermal and barometric shifts d
 The benchmarking metrics demonstrate exceptional model convergence. The training and test evaluation metrics align closely across all classification parameters (Accuracy, Precision, Recall, and F1), indicating an optimized bias-variance balance. The system exhibits high generalization power, meaning it is thoroughly robust against overfitting and prepared to make predictions on real-world, out-of-sample atmospheric inputs.
 
 ---
+## Screenshots
+
+### Visualuzation
+![Visualuzation](Images/Vis)
+
+![Visualuzation](images/Vis2.png)
+
+### Model Performance
+![Accuracy](images/Models.png)
