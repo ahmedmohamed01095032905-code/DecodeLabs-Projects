@@ -92,7 +92,7 @@ The benchmarking metrics demonstrate exceptional model convergence. The training
 ### Visualuzation
 ![Visualuzation](Images/Vis)
 
-![Visualuzation](images/Vis2.png)
+![Visualuzation](Images/Vis2.png)
 
 ### Model Performance
-![Accuracy](images/Models.png)
+![Accuracy](Images/Models.png)
