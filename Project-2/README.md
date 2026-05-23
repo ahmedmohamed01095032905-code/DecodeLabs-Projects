@@ -96,3 +96,9 @@ The benchmarking metrics demonstrate exceptional model convergence. The training
 
 ### Model Performance
 ![Accuracy](Images/Models.png)
+
+---
+Author
+Ahmed Mohamed
+
+Prepared for DecodeLabs Internship Project.
