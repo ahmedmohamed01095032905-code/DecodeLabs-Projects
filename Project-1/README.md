@@ -62,13 +62,13 @@ Machine learning models used:
 ---
 ## Screenshots
 
-### Code Sample
+### visualization
 ![visualization](images/visualization.png)
 
-### Output Result
+### model
 ![model](images/model.png)
 
-### Model Performance
+### GridSearch
 ![GridSearch](images/GridSearch.png)
 
 # Files Included
