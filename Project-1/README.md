@@ -60,6 +60,16 @@ Machine learning models used:
 - Scikit-learn
 
 ---
+## Screenshots
+
+### Code Sample
+![visualization](images/visualization.png)
+
+### Output Result
+![model](images/model.png)
+
+### Model Performance
+![GridSearch](images/GridSearch.png)
 
 # Files Included
 
